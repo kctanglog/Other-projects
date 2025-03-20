@@ -3,7 +3,7 @@
 
 I have attached our group project report summary in the above.
 
-In the "Code and Result", I have attached partial code of our project ("data processing" part)
+In the "Code and Result", I have attached partial code of our project (data processing part)
 
 
 Here is our group project blog post:
