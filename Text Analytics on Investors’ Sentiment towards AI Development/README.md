@@ -1,6 +1,10 @@
 # Text Analytics on Investors’ Sentiment towards AI Development
 
-I have attached our group project report summary in the above, as well as the data processing part.
+
+I have attached our group project report summary in the above.
+
+In the "Code and Result", I have attached partial code of our project, namely the "data processing" part.
+
 
 Here is our group project blog post:
 
